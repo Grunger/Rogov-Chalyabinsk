@@ -8,6 +8,10 @@ def f():
     return a + 4
 
 
+def f3():
+    pass
+
+
 def main():
     print('Hello')
 
