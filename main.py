@@ -3,8 +3,8 @@ def f2():
 
 
 def f():
-    a = 7
-    print('Новая ветка!')
+    print('Новая ветка')
+    a = 5
     return a + 4
 
 
